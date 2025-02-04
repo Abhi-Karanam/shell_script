@@ -10,5 +10,5 @@ echo "Please etner your password"
 
 read -s PASSWORD
 
-echo "Passowrd enterted is::$PASSWORD"
+
 
