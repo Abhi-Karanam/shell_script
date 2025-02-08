@@ -9,7 +9,7 @@ then
 if [ $NUMBER -eq 100 ]
 then
     echo "Given number is equal to 100"
-    
+
 else
     echo "Given number is less than 100"
 fi 
