@@ -1,8 +1,8 @@
 #!/bin/bash
 
-MOVIES=("OG", "PUSHPA", "Game Changer")
+MOVIES=("pushpa" "rrr" "devara")
+# index starts from 0, size is 3
 
-echo "First movie is: ${MOVIES[1]}"
-
-FIRSTMOVIE=$(firstmovie)
-echo "script executed at: ${MOVIES[1]
+echo "First movie: ${MOVIES[0]}"
+echo "Second movie: ${MOVIES[1]}"
+echo "Third movie: ${MOVIES[2]}"
